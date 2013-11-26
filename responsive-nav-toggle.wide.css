@@ -1,0 +1,6 @@
+.js .nimbleworks-nav-toggle {
+    display: none;
+}
+.js .nimbleworks-nav-closed .nimbleworks-nav-list {
+    display: block;
+}
