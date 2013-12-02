@@ -18,7 +18,7 @@
                     isOpen = false;
                 }
             };
-            $(document).click(btnClickHandler);
+            $(document).on('click.nimbleworks.navToggle', btnClickHandler);
         });
     });
-})(jQuery);
+}(jQuery));
